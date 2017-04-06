@@ -103,7 +103,7 @@ CDllSampleCppDlg::CDllSampleCppDlg(CWnd* pParent /*=NULL*/)
 
 
 		//時系列データのサンプル数
-		numSample=50;//既存値＝40
+		numSample=40;//既存値＝40
 
 
 	//コンストラクタ，ここでアロケートする(1/19)++++++++++++++++++++//
